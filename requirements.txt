@@ -1,6 +1,11 @@
-streamlit
+streamlit==1.45.1
 streamlit-option-menu
-tensorflow
-numpy
-Pillow
 python-dotenv
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow==2.19.0
+torch
+torchvision
+Pillow
